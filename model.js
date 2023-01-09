@@ -1,4 +1,5 @@
 let model = {
+  appdiv: document.getElementById("app"),
   mazeModel: {
     size: 2,
     rows: [
